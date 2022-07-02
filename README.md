@@ -1,12 +1,14 @@
 # The News
 
-Esse dataset contém dados referentes a leitores fictícios da plataforma de notícias "the news",  mostrando o padrão de comportamento dos leitores e dos associados da empresa. 
+Esse dataset contém dados referentes a leitores  da plataforma de notícias "the news",  mostrando o padrão de comportamento dos leitores e dos associados da empresa. 
 
 
 
 #### Conteúdo:
 
-Há 1000 leitores nesse banco de dados, porém não dados de leitores reais. Período de 2021 e 2022 com os seguintes atributos:
+Há 1000 leitores nesse banco de dados. Vale lembrar que os leitores mencionados nesse dataset são fictícios. 
+
+Período de 2021 e 2022 com os seguintes atributos:
 
 - first_name: Nome do leitor
 
